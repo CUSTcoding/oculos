@@ -1,0 +1,17 @@
+{
+  "name": "oculos",
+  "version": "1.0.0",
+"description": "Plataforma inteligente de orientação acadêmica baseada em IA que ajuda estudantes a escolherem a melhor área de estudo, cursos e instituições, além de gerar planos de estudo personalizados e relatórios completos de carreira.",
+  "keywords": [
+    "IA",
+    "educação",
+    "orientação vocacional",
+    "estudantes",
+    "carreira",
+    "plano de estudos",
+    "universidade"
+  ],
+  "author": "@CCS",
+  "license": "ISC",
+  "packageManager": "pnpm@10.34.4"
+}
